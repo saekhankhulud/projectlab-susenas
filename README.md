@@ -11,3 +11,4 @@ Karena ingin melihat jumlah anak, dataset yang digunakan adalah Susenas Kor 2012
 * __Suku bunga kredit KPR.__
 
 Namun karena keterbatasannya data eksternal mengenai harga properti dan juga suku bunga kredit KPR, kami hanya menggunakan variabel jumlah anak bersekolah, pendapatan per kapita yang didapatkan dari pengeluaran per kapita, dan juga daerah dan jenis daerah yang ditempati.
+# 
