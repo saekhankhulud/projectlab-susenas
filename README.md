@@ -1,5 +1,5 @@
 # Project Lab: Data Susenas 2012
-# Introduction
+# Overview
 SUSENAS merupakan survei yang dirancang untuk mengumpulkan data sosial kependudukan yang relatif sangat luas. Data yang dikumpulkan antara lain menyangkut bidang-bidang pendidikan, kesehatan/gizi, perumahan, sosial ekonomi lainnya, kegiatan sosial budaya, konsumsi/pengeluaran dan pendapatan rumah tangga, perjalanan, dan pendapat masyarakat mengenai kesejahteraan rumah tangganya.
 Pada penelitian kali ini, kami ingin melihat bagaimana pengaruh jumlah anak yang masih bersekolah (<18 tahun) dalam satu rumah tangga pada jenis kepemilikan rumah.
 ## Hipotesis
@@ -11,4 +11,7 @@ Karena ingin melihat jumlah anak, dataset yang digunakan adalah Susenas Kor 2012
 * __Suku bunga kredit KPR.__
 
 Namun karena keterbatasannya data eksternal mengenai harga properti dan juga suku bunga kredit KPR, kami hanya menggunakan variabel jumlah anak bersekolah, pendapatan per kapita yang didapatkan dari pengeluaran per kapita, dan juga daerah dan jenis daerah yang ditempati.
-# 
+# Tools and Method
+Pada penelitian ini, kami membuat *Exploratory Data Analysis* dan juga *dashboard* menggunakan tools berupa jupyter notebook dan juga Tableau. Hasil *dashboard* dapat dilihat pada berikut: https://public.tableau.com/app/profile/khulud.saekhan/viz/DashboardProjectLab/DashboardKepemilikanRumah
+# Notes
+Karena data susenas yang digunakan diberikan oleh https://pacmann.io/ bersifat rahasia, kami tidak dapat menyebarkan dataset tersebut. 
