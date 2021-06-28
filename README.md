@@ -14,4 +14,4 @@ Namun karena keterbatasannya data eksternal mengenai harga properti dan juga suk
 # Tools and Method
 Pada penelitian ini, kami membuat *Exploratory Data Analysis* dan juga dashboard menggunakan tools berupa jupyter notebook dan juga Tableau. Hasil dashboard dapat dilihat pada berikut: https://public.tableau.com/app/profile/khulud.saekhan/viz/DashboardProjectLab/DashboardKepemilikanRumah
 # Notes
-Karena data susenas yang digunakan diberikan oleh @Pacmann bersifat rahasia, kami tidak dapat menyebarkan dataset tersebut. 
+Karena data susenas yang digunakan diberikan oleh pacmann.io bersifat rahasia, kami tidak dapat menyebarkan dataset tersebut. 
