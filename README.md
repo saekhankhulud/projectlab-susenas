@@ -1,6 +1,7 @@
 # Project Lab: Data Susenas 2012
 # Overview
 SUSENAS merupakan survei yang dirancang untuk mengumpulkan data sosial kependudukan yang relatif sangat luas. Data yang dikumpulkan antara lain menyangkut bidang-bidang pendidikan, kesehatan/gizi, perumahan, sosial ekonomi lainnya, kegiatan sosial budaya, konsumsi/pengeluaran dan pendapatan rumah tangga, perjalanan, dan pendapat masyarakat mengenai kesejahteraan rumah tangganya.
+
 Pada penelitian kali ini, kami ingin melihat bagaimana pengaruh jumlah anak yang masih bersekolah (<18 tahun) dalam satu rumah tangga pada jenis kepemilikan rumah.
 ## Hipotesis
 Karena ingin melihat jumlah anak, dataset yang digunakan adalah Susenas Kor 2012. Berikut adalah variabel yang dapat mempengaruhi jenis kepemilikan rumah:
